@@ -1,5 +1,5 @@
-STUID = 231220000
-STUNAME = 张三
+STUID = 0
+STUNAME = wheatfox
 
 # DO NOT modify the following code!!!
 
